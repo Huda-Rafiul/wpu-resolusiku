@@ -3,6 +3,7 @@ Rencana WPU Konten
 - Javasricpt
  *ES6
  *Framework Javascript
+- Struktur Data Dasar 
 - PHP Framework
 - Interview 
 - Vlogs
